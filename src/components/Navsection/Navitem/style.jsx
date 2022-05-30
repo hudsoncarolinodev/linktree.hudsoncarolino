@@ -31,6 +31,12 @@ export const Li = styled.li`
         left: 0;
         background: rgb(0,0,0);
         background: linear-gradient(0deg, rgba(0,0,0,0.9416141456582633) 0%, rgba(0,0,0,0.6951155462184874) 94%, rgba(0,0,0,0.7399334733893557) 100%);
+        transition:0.5s;
+    }
+    :hover:before{
+        transition:0.5s;
+        background: rgb(0,0,0);
+        background: linear-gradient(0deg,rgb(0 0 0 / 46%) 0%,rgba(0,0,0,0.6951155462184874) 94%,rgba(0,0,0,0.7399334733893557) 100%);
     }
     h2{
         position: relative;

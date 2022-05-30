@@ -7,12 +7,7 @@ function Navbar(){
     const [menuItens, setItens] = useState([
         {   
             id:0,
-            name:"Kenzie",
-            imge:""
-        },
-        {   
-            id:1,
-            name:"Hudson",
+            name:"Kenzie Academy",
             imge:""
         },
     ])

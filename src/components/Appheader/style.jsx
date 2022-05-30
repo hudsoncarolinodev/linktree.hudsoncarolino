@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Header = styled.header`
     position:fixed;
-    z-index:2;
+    z-index:3;
     height:110vh;
     background-color:#2b2b2b;
     width:100%;

@@ -7,7 +7,7 @@ function Profilesection(){
             <header>
                 <img src={imgProfile} alt="Hudson Carolino" />
                 <h1>@hudsoncarolino</h1>
-                <h2>Instrutor: Hudson Carolino</h2>
+                <h2>Instrutor M1/M2: Hudson Carolino</h2>
             </header>
             
             <article>
