@@ -1,6 +1,5 @@
 import {Li} from './style'
-import img from './../../../../public/img/demo.webp'
-console.log(img)
+
 function Navitem({data}){
 
     const {name,link,backgroundImage} = data
