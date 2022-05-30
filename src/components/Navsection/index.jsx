@@ -8,14 +8,14 @@ function Navsection(){
         {   
             id:0,
             name:"Sala Demo (SENHA: 1122)",
-            backgroundImage:`${window.location.origin}/public/img/demo.webp`,
+            backgroundImage:`https://hudsoncarolino.com.br/wp-content/uploads/2022/05/demo.webp`,
             link:"https://kenzieacademybr.zoom.us/j/84512565476?pwd=em9oam1BQWdtMXZLQ3dPeCtSNnRSZz09",
         },
         {   
             id:3,
             name:"Acesso gravações demo",
             link:"https://alunos2.kenzie.com.br/courses/99/pages/demos-e-talks",
-            backgroundImage:`${window.location.origin}/public/img/canvas.jpg`,
+            backgroundImage:`https://hudsoncarolino.com.br/wp-content/uploads/2022/05/canvas.jpg`,
         },
         {   
             id:1,
@@ -27,19 +27,19 @@ function Navsection(){
             id:2,
             name:"Acesso ao canvas (M1-T13)",
             link:"https://alunos2.kenzie.com.br/courses/99",
-            backgroundImage:`${window.location.origin}/public/img/canvas.jpg`,
+            backgroundImage:`https://hudsoncarolino.com.br/wp-content/uploads/2022/05/canvas.jpg`,
         },
         {   
             id:4,
             name:"Slido para perguntas demo",
             link:"https://app.sli.do/event/9Z8Spw4q3yHcXehcKmaRYY",
-            backgroundImage:`${window.location.origin}/public/img/slido.png`,
+            backgroundImage:`https://hudsoncarolino.com.br/wp-content/uploads/2022/05/slido.png`,
         },
         {   
             id:5,
             name:"Agendar (1-1) com Hudson",
             link:"https://calendly.com/hudson-14/1-1-hudson?month=2022-05",
-            backgroundImage:`${window.location.origin}/public/img/calendly.png`,
+            backgroundImage:`https://hudsoncarolino.com.br/wp-content/uploads/2022/05/calendly.png`,
         },
     ])
 
