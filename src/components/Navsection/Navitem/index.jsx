@@ -1,14 +1,17 @@
+import {Li} from './style'
+import img from './../../../../public/img/demo.webp'
+console.log(img)
 function Navitem({data}){
 
-    const {name, image} = data
-
+    const {name,link,backgroundImage} = data
+ 
     return (
-        <li>
-            <a href="">
+        <Li backgroundImage={backgroundImage}>
+            <a href={link} title={name} target="_blank">
                 <h2>{name}</h2>
-                <img src={image}  alt={name} />
+                {/* <img src=""  alt={name} /> */}
             </a>
-        </li>
+        </Li>
     )
 }
 export default Navitem

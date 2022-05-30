@@ -1,16 +1,19 @@
+import {useState} from 'react'
 import Navbar from '../Navbar'
 import {Header} from './style'
-import {useState} from 'react'
+import { FaAlignLeft, FaRegTimesCircle } from "react-icons/fa";
 
 function Appheader(){
 
-    const [position, setPosition] = useState("-0%");
+    const [positionHeader, SetpositionHeader] = useState(false);
     
     return (
-        <Header positionPx={position}>
+        <Header positionPx={positionHeader}>
+            <button onClick={()=>SetpositionHeader(!positionHeader)}>
+                {positionHeader ? <FaRegTimesCircle/>:<FaAlignLeft/>}
+            </button>
             <Navbar />
         </Header>
     )
 }
-
 export default Appheader
