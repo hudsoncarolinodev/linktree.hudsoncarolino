@@ -1,1 +1,1 @@
-["Ref:"]("https://www.taniarascia.com/react-architecture-directory-structure/")
+[Ref:](https://www.taniarascia.com/react-architecture-directory-structure/)
