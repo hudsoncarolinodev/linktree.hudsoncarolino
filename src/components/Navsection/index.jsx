@@ -29,12 +29,12 @@ function Navsection(){
             link:"https://alunos2.kenzie.com.br/courses/99",
             backgroundImage:`https://hudsoncarolino.com.br/wp-content/uploads/2022/05/canvas.jpg`,
         },
-        {   
-            id:4,
-            name:"Slido para perguntas demo",
-            link:"https://app.sli.do/event/9Z8Spw4q3yHcXehcKmaRYY",
-            backgroundImage:`https://hudsoncarolino.com.br/wp-content/uploads/2022/05/slido.png`,
-        },
+        // {   
+        //     id:4,
+        //     name:"Slido para perguntas demo",
+        //     link:"https://app.sli.do/event/9Z8Spw4q3yHcXehcKmaRYY",
+        //     backgroundImage:`https://hudsoncarolino.com.br/wp-content/uploads/2022/05/slido.png`,
+        // },
         {   
             id:5,
             name:"Agendar (1-1) com Hudson",
