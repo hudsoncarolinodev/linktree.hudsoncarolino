@@ -7,26 +7,26 @@ function Navsection(){
     const [menuItens, setItens] = useState([
         {   
             id:0,
-            name:"Sala Demo (SENHA: 1122)",
+            name:"Sala Demo (SENHA: 12345)",
             backgroundImage:`https://hudsoncarolino.com.br/wp-content/uploads/2022/05/demo.webp`,
-            link:"https://kenzieacademybr.zoom.us/j/84512565476?pwd=em9oam1BQWdtMXZLQ3dPeCtSNnRSZz09",
+            link:"https://kenzieacademybr.zoom.us/j/83005615779",
         },
         {   
             id:3,
             name:"Acesso gravações demo",
-            link:"https://alunos2.kenzie.com.br/courses/99/pages/demos-e-talks",
+            link:"https://canvas.kenzie.com.br/courses/17/pages/demos-e-talks",
             backgroundImage:`https://hudsoncarolino.com.br/wp-content/uploads/2022/05/canvas.jpg`,
         },
         {   
             id:1,
             name:"Repositório Demo",
-            link:"https://github.com/Kenzie-Academy-Brasil-Developers/m1-mai-22",
+            link:"https://github.com/Kenzie-Academy-Brasil-Developers/m1-t14",
             backgroundImage:"https://github.githubassets.com/images/modules/site/social-cards/github-social.png"
         },
         {   
             id:2,
-            name:"Acesso ao canvas (M1-T13)",
-            link:"https://alunos2.kenzie.com.br/courses/99",
+            name:"Acesso ao canvas (M1-T14)",
+            link:"https://canvas.kenzie.com.br/courses/17",
             backgroundImage:`https://hudsoncarolino.com.br/wp-content/uploads/2022/05/canvas.jpg`,
         },
         // {   
